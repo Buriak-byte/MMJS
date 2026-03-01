@@ -17,4 +17,4 @@ console.log(friends.join(","))
 // Працюємо з колекцією карток в trello. Метод splice() (можна використати інші методи)
 const cards = ["карточка1", "карточка2", "карточка3", "карточка4", "карточка5"]
  const cardToRemote = "карточка3"
- console.log(cards.slice(2, ))
+ console.log(cards.slice(3,3))
